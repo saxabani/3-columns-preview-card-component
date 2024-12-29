@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Link](https://github.com/saxabani/3-columns-preview-card-component)
-- Live Site URL: [Live Link](https://your-live-site-url.com)
+- Live Site URL: [Live Link](https://saxabani.github.io/3-columns-preview-card-component/)
 
 ## My process
 
